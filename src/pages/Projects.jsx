@@ -4,7 +4,7 @@ const projects = [
     description: "A modern social cafe platform connecting friends and communities through shared experiences, events, and digital interactions.",
     liveLink: "https://besties-cafe.vercel.app",
     githubLink: "#",
-    image: "/restaurant.jpeg",
+    image: "/com.jpeg",
     tags: ["React", "Social", "Community", "Cafe", "Vercel"]
   },
   {
