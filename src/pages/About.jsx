@@ -174,9 +174,9 @@ const About = () => {
             {[
               {
                 degree: "International Relations and Diplomacy",
-                school: "University",
-                period: "Current",
-                description: "Studying international relations with focus on diplomatic protocols and global affairs.",
+                school: "Afe Babalola University",
+                period: "Done",
+                description: "Studied international relations with focus on diplomatic protocols and global affairs.",
                 color: "from-blue-500 to-purple-500",
                 animation: "animate-slideInLeft"
               },
