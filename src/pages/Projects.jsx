@@ -12,7 +12,7 @@ const projects = [
     description: "A unique Saudi Arabia restaurant with delicious cuisines inspired by their rich cultural heritage.",
     liveLink: "https://maiz-hub.netlify.app/",
     githubLink: "#",
-    image: "/restaurant.jpeg",
+    image: "/maiz.jpeg",
     tags: ["React", "Tailwind CSS", "Restaurant", "Cultural"]
   },
   {
