@@ -1,5 +1,12 @@
-
 const projects = [
+  {
+    title: "BESTIES CAFE",
+    description: "A modern social cafe platform connecting friends and communities through shared experiences, events, and digital interactions.",
+    liveLink: "https://besties-cafe.vercel.app",
+    githubLink: "#",
+    image: "/restaurant.jpeg",
+    tags: ["React", "Social", "Community", "Cafe", "Vercel"]
+  },
   {
     title: "MAIZ",
     description: "A unique Saudi Arabia restaurant with delicious cuisines inspired by their rich cultural heritage.",
@@ -10,7 +17,7 @@ const projects = [
   },
   {
     title: "BUMA LOGISTICS",
-    description: "A comprehensive logistics platform delivering goods across the nation and globe with speed and reliability.",
+    description: "A comprehensive logistics platform delivering goods across nation and globe with speed and reliability.",
     liveLink: "https://buma022.netlify.app",
     githubLink: "#",
     image: "/log.jpeg",
