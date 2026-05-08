@@ -4,7 +4,7 @@ const projects = [
     description: "A modern social cafe platform connecting friends and communities through shared experiences, events, and digital interactions.",
     liveLink: "https://besties-cafe.vercel.app",
     githubLink: "#",
-    image: "/com.jpeg",
+    image: "/cafe.jpeg",
     tags: ["React", "Social", "Community", "Cafe", "Vercel"]
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     description: "A unique Saudi Arabia restaurant with delicious cuisines inspired by their rich cultural heritage.",
     liveLink: "https://maiz-hub.netlify.app/",
     githubLink: "#",
-    image: "/maiz.jpeg",
+    image: "/restaurant.jpeg",
     tags: ["React", "Tailwind CSS", "Restaurant", "Cultural"]
   },
   {
